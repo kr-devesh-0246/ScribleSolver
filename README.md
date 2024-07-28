@@ -24,4 +24,3 @@ This is a 5 layers Sequential Convolutional Neural Network for digits recognitio
 It achieved 99.51% of accuracy with this CNN trained on a GPU, which took me about a minute. If you dont have a GPU powered machine it might take a little longer, you can try reducing the epochs (steps) to reduce computation.
 
 It achieved 98.15% of accuracy on test set of this CNN model trained on GPU.
-# ScribleSolver
